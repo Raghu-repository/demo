@@ -1,3 +1,3 @@
 # demo
-this is a demo repository.<br>
-Author - Raghavendra
+this is a demo repository.  
+Author - Raghavendra.  
